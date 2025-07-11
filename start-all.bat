@@ -1,0 +1,5 @@
+start cmd /K "npm run start:blockchain"
+start cmd /K "npm run start:backend"
+start cmd /K "npm run start:dbWorker"
+start cmd /K "npm run start:blockchainWorker"
+start cmd /K "npm run start:bullboard"
